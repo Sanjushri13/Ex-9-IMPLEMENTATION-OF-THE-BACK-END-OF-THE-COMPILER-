@@ -62,6 +62,4 @@ int main() {
 # RESULT
   The back end of the compiler is implemented successfully, and the output is verified.
 
-# Result
-The back end of the compiler is implemented successfully, and the output is verified.
 
